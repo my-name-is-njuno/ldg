@@ -1,0 +1,19 @@
+/** ADD YOUR AWESOME CODES HERE **/
+
+
+
+.happy-clients {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.happy-clients .client-item img {
+	max-width: 100%;
+	overflow: hidden;
+	transition: all .3s;
+	cursor: pointer;
+}
+
+.happy-clients .client-item img:hover {
+	opacity: 0.8;
+}
