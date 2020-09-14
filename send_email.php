@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Set the recipient email address.
     // FIXME: Update this to your desired email address.
-    $recipient = "pnjuno@firstassurance.co.ke";
+    $recipient = "";
 
     // Set the email subject.
     $subject = "New Appointment Request from $name";
